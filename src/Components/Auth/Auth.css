@@ -1,0 +1,23 @@
+.signInForm{
+    border: 1px solid gray;
+    padding: 15px;
+    border-radius: 7px;
+
+}
+.errorMsg {
+    color: red;
+}
+.switchBtn {
+    font-size: 20px;
+    padding: .5rem;
+    margin-bottom: 1rem;
+    border-radius: 7px;
+    width: 100%;
+    background:#d70f64;
+    color: white;
+}
+.switchBtn:hover{
+    background:#960c45;
+    color: #f2c1d5;
+    transition: .3s;
+}

@@ -1,0 +1,46 @@
+/* Nave Bar */
+.nav-style {
+    background: #D70F64;
+    height: auto;
+  }
+.Navigation {
+    margin-bottom: 20px;
+}
+.Brand {
+    color: white;
+    font-size: 15px;
+    margin-top: -20px;
+}
+.NavItems {
+    display: flex;
+    text-decoration: none;
+}
+.links {
+    margin-top: .25rem;
+    margin-left: 2rem;
+}
+.link {
+    margin-left: 1rem;
+    padding-right: 1rem;
+    text-decoration: none;
+    color: white;
+    font-size: 22px;
+    margin-top: -5px;
+}
+.Navlink:hover {
+    color: wheat;
+    transition: all 0.2s;
+   
+}
+.Logo{
+    margin-top: 8px;
+    margin-left: 2.5rem;
+    width: 65px;
+}
+
+/* @media screen and (min-width: 449px) {
+    .NavItems {
+        display: flex;
+        flex-direction: column;
+    }
+} */

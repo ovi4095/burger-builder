@@ -1,0 +1,46 @@
+.Ingredient {
+    margin: 1px;
+    text-align: center;
+    
+}
+.Ingredient img {
+    width: 20rem;
+}
+
+
+@media screen and (min-width: 520px) {
+    .Ingredient {
+       margin: 5px;
+    }
+    .Ingredient img {
+        width: 25rem;
+    }
+    
+}
+@media screen and (min-width: 785px) {
+    .Ingredient {
+       margin: 5px;
+    }
+    .Ingredient img {
+        width: 35rem;
+    }
+    
+}
+@media screen and (min-width: 1024px) {
+    .Ingredient {
+       margin: 5px;
+    }
+    .Ingredient img {
+        width: 40rem;
+    }
+    
+}
+@media screen and (min-width: 1366px) {
+    .Ingredient {
+       margin: 5px;
+    }
+    .Ingredient img {
+        width: 45rem;
+    }
+    
+}

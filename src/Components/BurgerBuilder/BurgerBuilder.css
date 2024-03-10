@@ -1,0 +1,26 @@
+.Builder{
+    margin-top: 1rem;
+    margin-bottom: 5rem;
+    display: grid;
+    
+}
+
+@media screen and (min-width: 1677px) {
+    .Builder {
+        margin-top: 5rem;
+        margin-right: 15rem;
+        grid-template-columns:repeat(1, 1fr 25%);
+    }
+    .Controls {
+        margin-top: 2rem;
+    }
+}
+@media screen and (min-width: 1920px) {
+    .Builder {
+        margin-right: 25rem;
+        grid-template-columns:repeat(1, 1fr 10%);
+    }
+    .Controls {
+        margin-top: 7rem;
+    }
+}

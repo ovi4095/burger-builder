@@ -1,0 +1,18 @@
+.paymentBanner {
+    color: white;
+    background: #D70f64;
+    border: 1px solid grey;
+    box-shadow: 1px 1px  3px #888888;
+    border-radius: 5px;
+    padding: 20px;
+}
+.checkoutForm{
+    border: 1px solid grey;
+    box-shadow: 1px 1px  3px #888888;
+    border-radius: 5px;
+    padding: 20px;
+}
+.checkoutBtn{
+    background:#D70f64;
+    margin-right: 1rem;
+}

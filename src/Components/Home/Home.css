@@ -1,0 +1,30 @@
+.imgPosition {
+    margin-top: -1.25rem;
+}
+.burgerMenu {
+    text-align: center;
+    background: #D70f64;
+    color: white;
+    margin-top: 2rem;
+    padding: .5rem;
+}
+.burgerInfoSection {
+    margin: .5rem;
+    padding: 0.5rem;
+    margin-top: 1.5rem;
+    margin-bottom: 1rem;
+}
+.burgerImage img {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+.burgerInfo {
+    margin-top: 2rem;
+    margin-bottom: 5rem;
+    border: 1px solid #D70f64;
+    border-radius: 5px;
+    box-shadow: 1px 1px 2px #828282;
+}
+.burgerInfo h2 {
+    padding: 1rem 0rem;
+}
