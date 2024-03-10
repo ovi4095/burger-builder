@@ -1,3 +1,10 @@
+#Quick Install
+* Download the file to local Folder
+* Open Terminal in that folder (vs code recommended)
+* In the Terminal type "npm install" and hit enter.
+* then follow the below staps.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
